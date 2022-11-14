@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import { NavLink } from 'react-router-dom';
-import { Backdrop } from '../../UI/Button/Backdrop/Backdrop';
+import { Backdrop } from '../../UI/Backdrop/Backdrop';
 import classes from './Drawer.module.scss';
 
 const links = [
